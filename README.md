@@ -2,7 +2,7 @@
 Verion: 1.1 <br>
 Daniel Cyrus \<<d.cyrus@surrey.ac.uk>\>, Alireza Tamaddoni Nezad \<<a.tamaddoni-nezhad@surrey.ac.uk>\>.<br>
 This version is compatible with latest YAP prolog version.<br>
-GILPS can work with several ILP engine including PROGOLEM, TOPLOG and FUNCLOG.<br>
+GILPS contains several ILP engine including PROGOLEM, TOPLOG and FUNCLOG.<br>
 Next GILPS version(2.0) will be released with our own custom MIL engine.
 <br>
 This version is continue developing of <a href='https://github.com/JoseCSantos/GILPS'>JoseCSantos</a> version(1.0).
